@@ -1,0 +1,6 @@
+# Markdown Output
+*.pdf
+*.html
+
+# MacOS finder files
+.DS_Store
